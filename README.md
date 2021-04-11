@@ -58,6 +58,10 @@ The data analyzed below is of February 2019.
 
 * Packages: pandas, numpy, folium, matplotlib, datetime
 
+* Detailed Code (Interactive Version via nbviewer) : https://nbviewer.jupyter.org/github/shrinidhi02/FordGo-Bike-Analysis/blob/main/Fordgobikeanalysis.ipynb
+
+* Detailed Code (Github Version) : https://github.com/shrinidhi02/FordGo-Bike-Analysis/blob/main/Fordgobikeanalysis.ipynb
+
 **Main Findings:**
 
 * Market Street at 10th St., San Francisco caltrain station2, Berry Street at 4th Street are few of the most popular pick up stations in San Francisco, where the bikes picked up are more than 3000 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways.
