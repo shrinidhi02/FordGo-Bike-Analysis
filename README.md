@@ -30,10 +30,12 @@ The data analyzed below is of February 2019.
 
 **Questions analyzed are as follows:**
 
-* Which are the most popular pick up and drop off stations?
-* At what time of the week, the demand for the bike is at the peak? For how much time do they ride the bike on an average?
-* At what time of the day there are maximum number of riders? For how much time do they ride the bike on an average?
-* How much percentage of the riders are subscribers and how much percentage of them are customers? Note: riders can either be subscribers on they can rent it on adhoc basis
+1. At what time of the week, the demand for the bike is at the peak? On an average for how much time do they ride the bike?
+2. At what time of the day there are maximum number of riders? On an average for how much time do they ride the bike?
+3. How much percentage of the riders are subscribers and how much percentage of them are customers?
+<br>Note: riders can either be subscribers or they can rent it on adhoc basis
+4. How does the rental trend look like for different users?
+5. Which are the most popular pick up and drop off stations?
 
 **Limitations:**
 
@@ -45,18 +47,18 @@ The data analyzed below is of February 2019.
 
 **Data Cleaning/Feature Engineering:**
 * Removed nulls
-* Updating Data Types
+* Updated Data Types
 
 **Exploratory Data Analysis:**
 * Reviewed the dataset
 * Flitered records and null values review
 * Data Visualization for final findings
-* Created maps, barcharts and pie charts to answer various questions
+* Created maps, line charts, barcharts and pie charts to answer various questions
 
 **Code and Dataset Details**
 * Python Version: 3.6.3
 
-* Packages: pandas, numpy, folium, matplotlib, datetime
+* Packages: pandas, numpy, folium, matplotlib, datetime, seaborn
 
 * Detailed Code (Interactive Version via nbviewer) : https://nbviewer.jupyter.org/github/shrinidhi02/FordGo-Bike-Analysis/blob/main/Fordgobikeanalysis.ipynb
 
@@ -64,9 +66,13 @@ The data analyzed below is of February 2019.
 
 **Main Findings:**
 
+* The demand for the bike is highest between 8 and 9 AM and between 5 and 6 PM. The average duration of the bike rented during this time is 11 and 12 minutes respectively. It seems that these bikes would be rented mainly for commuting purposes.
+The bike is rented for maximum amount of time which is almost 25 minutes between 3 AM and 4 PM. It might be a good idea to look at the data in the detail and consider whether this is one of the events or it's a routine thing.
+
+* Almost 89% of the renters are subscribers. It seems that they would be using bike regularly.
+
+* Rental trend for the subscribers is high during the weekdays. It seems that they use the bikes nmainly for the commuting purposes.There are suscribers who use bike for leisure purposes but they are less as compared to the suscribers who use it for commuting purposes.
+Rental trend for customers is almost the same during all the days of the week
+
 * Market Street at 10th St., San Francisco caltrain station2, Berry Street at 4th Street are few of the most popular pick up stations in San Francisco, where the bikes picked up are more than 3000 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways.
 San Francisco Caltrain station2, Market Street at 10th St., Montgomery Street BART Station are few of the most popular drop-off stations in San Francisco with drop off more than 3500 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains,buses or freeways.
-* The demand for the bikes is highest on Thursday totalling to approximately 35,000 per month.
-The bike is rented for higher minutes in weekend as compare to weekdays. On an average bikes are rented for 15 minutes on weekend.
-* -The demand for the bike is highest between 8 and 9 AM and between 5 and 6 PM. The average duration of the bike rented during this time is 11 and 12 minutes respectively. It seems that these bikes would be rented mainly for commuting purposes.  The bike is rented for maximum amount of time which is almost 25 minutes between 3 AM and 4 PM. It might be a good idea to look at the data in the detail and consider whether this is one of the events or it's a routine thing.
-* Almost 89% of the renters are subscribers. It seems that they would be using bike regularly.
