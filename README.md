@@ -66,6 +66,9 @@ The data analyzed below is of February 2019.
 
 **Main Findings:**
 
+* The demand for the bikes is highest on Thursday totalling to approximately 35,000 per month.
+The bike is rented for higher minutes in weekend as compare to weekdays. On an average bikes are rented for 15 minutes on weekend.
+
 * The demand for the bike is highest between 8 and 9 AM and between 5 and 6 PM. The average duration of the bike rented during this time is 11 and 12 minutes respectively. It seems that these bikes would be rented mainly for commuting purposes.
 The bike is rented for maximum amount of time which is almost 25 minutes between 3 AM and 4 PM. It might be a good idea to look at the data in the detail and consider whether this is one of the events or it's a routine thing.
 
