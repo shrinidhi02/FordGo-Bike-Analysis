@@ -73,6 +73,6 @@ The average duration of the bikes rented during the day is between 9 and 13 minu
 * Almost 89% of the renters are subscribers. It seems that they would be using bike regularly.
 * Rental trend for the subscribers is high during the weekdays. It seems that they use the bikes mainly for commuting purposes.The subscribers who use bike for leisure purposes seem to be less as compared to the subscribers who use it for commuting purposes. 
 Rental trend for customers is almost the same during all the days of the week. 
-Customers rent the bike for a longer duration than the subscribers. Subscribers would mainly be using their bikes for computing purposes*
+Customers rent the bike for a longer duration than the subscribers. Subscribers would mainly be using their bikes for computing purposes.
 * Market Street at 10th St., San Francisco Caltrain station2, Berry Street at 4th Street are few of the most popular pick up stations in San Francisco, where the bikes picked up are more than 3000 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways. 
 San Francisco Caltrain station2, Market Street at 10th St., Montgomery Street BART Station are few of the most popular drop-off stations in San Francisco with drop off more than 3500 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways.
