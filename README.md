@@ -30,12 +30,17 @@ The data analyzed below is of February 2019.
 
 **Questions analyzed are as follows:**
 
-1. At what time of the week, the demand for the bike is at the peak? On an average for how much time do they ride the bike?
-2. At what time of the day there are maximum number of riders? On an average for how much time do they ride the bike?
-3. How much percentage of the riders are subscribers and how much percentage of them are customers?
-<br>Note: riders can either be subscribers or they can rent it on adhoc basis and they are called customers
-4. How does the rental trend look like for different users?
-5. Which are the most popular pick up and drop off stations?
+1. At what time of the week, the demand for the bike is at the peak? 
+2. On an average for how much time the bike is rented every day of the week?
+3. At what time of the day there are maximum number of riders? 
+4. On an average for how much time the bike is rented every hour of the day?
+5. How much percentage of the riders are subscribers and how much percentage of them are customers?
+<br>*Note: riders can either be subscribers or they can rent it on adhoc basis known as customers*
+6. Analyze relationship between age and duration of the bike rented for subscribers and customers 
+7. How does the rental trend look like for different users?
+8. For how long each user rent the bike every day?
+9. Which are the most popular pick up stations?
+10. Which are the most popular drop off stations?
 
 **Limitations:**
 
