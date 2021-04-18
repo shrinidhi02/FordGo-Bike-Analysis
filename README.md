@@ -66,13 +66,14 @@ The data analyzed below is of February 2019.
 
 **Main Findings:**
 
-* The demand for the bikes is highest on Thursday totalling to approximately 35,000 rides per month. 
-The bikes are rented for higher minutes in weekend as compared to weekdays. On an average, bikes are rented for 13 minutes on weekend as compared to 10 minutes on weekdays.
-* The demand for the bike is highest between 8 and 9 AM and between 5 and 6 PM. The average duration of the bikes rented during this time is 11 and 12 minutes respectively. It seems that these bikes would be rented mainly for commuting purposes. 
-The average duration of the bikes rented during the day is between 9 and 13 minutes approximately. It seems that these bikes would be rented mainly for commuting purposes.
+* The demand for the bikes is highest on Thursday totalling to approximately 35,000 rides per month.
+* The bikes are rented for higher minutes in weekend as compared to weekdays. On an average, bikes are rented for 13 minutes on weekend as compared to 10 minutes on weekdays.
+* The demand for the bike is highest between 8 and 9 AM and between 5 and 6 PM. It seems that these bikes would be rented mainly for commuting purposes.
+* The average duration of the bikes rented during day is between 9 and 13 minutes approximately.
 * Almost 89% of the renters are subscribers. It seems that they would be using bike regularly.
-* Rental trend for the subscribers is high during the weekdays. It seems that they use the bikes mainly for commuting purposes.The subscribers who use bike for leisure purposes seem to be less as compared to the subscribers who use it for commuting purposes. 
-Rental trend for customers is almost the same during all the days of the week. 
-Customers rent the bike for a longer duration than the subscribers. Subscribers would mainly be using their bikes for computing purposes.
-* Market Street at 10th St., San Francisco Caltrain station2, Berry Street at 4th Street are few of the most popular pick up stations in San Francisco, where the bikes picked up are more than 3000 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways. 
-San Francisco Caltrain station2, Market Street at 10th St., Montgomery Street BART Station are few of the most popular drop-off stations in San Francisco with drop off more than 3500 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways.
+* Customers and subscribers between the age group of 30 and 40 are the ones who rent most of the bikes. Subscribers in that age group ride for a shorter duration than customers. It seems that these age group of subscibers would renting bike for commuting purposes.
+* Rental trend for the subscribers is high during the weekdays. It seems that they use the bikes mainly for commuting purposes.The subscribers who use bike for leisure purposes seem to be less as compared to the subscribers who use it for commuting purposes.
+Rental trend for customers is almost the same during all the days of the week.
+* Customers rent the bike for a longer duration than the subscribers. Subscribers would mainly be using their bikes for computing purposes*
+* Market Street at 10th St., San Francisco Caltrain station2, Berry Street at 4th Street are few of the most popular pick up stations in San Francisco, where the bikes picked up are more than 3000 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways.
+* San Francisco Caltrain station2, Market Street at 10th St., Montgomery Street BART Station are few of the most popular drop-off stations in San Francisco with drop off more than 3500 per month. These stations are located in the heart of the city and they are well connected to other parts of the city through trains, buses or freeways.
